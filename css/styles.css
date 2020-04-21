@@ -29,8 +29,8 @@ body {
 .about-me-container {
   padding-left: 50px;
   padding-right: 50px;
-  padding-bottom: 70px;
-  padding-top: 70px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .contacts-container {
@@ -90,7 +90,7 @@ body {
 
 .soft-skills-container {
   margin-left: 40px;
-  margin-top: 54px;
+  margin-top: 40px;
   margin-right: 40px;
 }
 
