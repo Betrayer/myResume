@@ -228,3 +228,7 @@ body {
   line-height: 24px;
   margin-bottom: 7px;
 }
+
+inline-span {
+  display: inline-block;
+}
